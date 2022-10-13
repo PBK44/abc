@@ -1,4 +1,4 @@
-#non-default arguments or positional arguments
+#non-default arguments or positional argument
 
 #1
 def display(name,age):
